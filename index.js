@@ -1,3 +1,3 @@
 var say = require("./hello.js");
 
-say.hello();
+console.log(say.hello());
